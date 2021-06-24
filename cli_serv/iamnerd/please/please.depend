@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1556973400 source:/home/elvin/Documents/iamnerd/please/main.cpp
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/time.h>
+	<poll.h>
+	<netdb.h>
+	<errno.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<ifaddrs.h>
+	<stdlib.h>
+	<fcntl.h>
+	<stdlib.h>
+	<iostream>
+

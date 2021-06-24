@@ -1,0 +1,4 @@
+﻿  tcpclientsecondtry.cpp
+c:\users\elvin\source\repos\tcpclientsecondtry\tcpclientsecondtry\tcpclientsecondtry.cpp(337): warning C4101: i: неиспользованная локальная переменная
+c:\users\elvin\source\repos\tcpclientsecondtry\tcpclientsecondtry\tcpclientsecondtry.cpp(422): warning C4101: forstr1: неиспользованная локальная переменная
+  tcpclientsecondtry.vcxproj -> c:\users\elvin\source\repos\tcpclientsecondtry\Debug\tcpclientsecondtry.exe

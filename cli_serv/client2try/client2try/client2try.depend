@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1555423202 source:/home/elvin/Documents/client2try/client2try/main.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<errno.h>
+	<unistd.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<cctype>
+	<iostream>
+

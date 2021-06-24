@@ -1,0 +1,4 @@
+﻿  tcpserver.cpp
+c:\users\elvin\source\repos\project64\project64\tcpserver.cpp(42): warning C4273: itoa: несовместимая компоновка dll
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: см. предыдущее определение "itoa"
+  Project64.vcxproj -> C:\Users\Elvin\source\repos\Project64\Debug\Project64.exe

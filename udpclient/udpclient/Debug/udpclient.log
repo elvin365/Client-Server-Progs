@@ -1,0 +1,4 @@
+﻿  udpclient.cpp
+c:\users\elvin\source\repos\udpclient\udpclient\udpclient.cpp(318): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elvin\source\repos\udpclient\udpclient\udpclient.cpp(371): warning C4018: <: несоответствие типов со знаком и без знака
+  udpclient.vcxproj -> C:\Users\Elvin\source\repos\udpclient\Debug\udpclient.exe

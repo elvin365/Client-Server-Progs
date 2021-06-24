@@ -1,0 +1,4 @@
+﻿  tcpclient.cpp
+c:\users\elvin\source\repos\tcpclient\tcpclient\tcpclient.cpp(243): warning C4101: i: неиспользованная локальная переменная
+c:\users\elvin\source\repos\tcpclient\tcpclient\tcpclient.cpp(321): warning C4101: forstr1: неиспользованная локальная переменная
+  tcpclient.vcxproj -> C:\Users\Elvin\source\repos\tcpclient\Debug\tcpclient.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\project65\project65\source.cpp(110): warning C4715: catch_put: значение возвращается не при всех путях выполнения
+  Project65.vcxproj -> C:\Users\Elvin\source\repos\Project65\Debug\Project65.exe

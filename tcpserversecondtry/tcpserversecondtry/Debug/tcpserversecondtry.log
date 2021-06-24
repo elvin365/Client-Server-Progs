@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\tcpserversecondtry\tcpserversecondtry\source.cpp(284): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elvin\source\repos\tcpserversecondtry\tcpserversecondtry\source.cpp(216): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "char *"
+c:\users\elvin\source\repos\tcpserversecondtry\tcpserversecondtry\source.cpp(188): warning C4101: year: неиспользованная локальная переменная
+  tcpserversecondtry.vcxproj -> C:\Users\Elvin\source\repos\tcpserversecondtry\Debug\tcpserversecondtry.exe
